@@ -1,5 +1,5 @@
 # Parse Telegram Channels
-_Telegram bot for parsing telegram channels._
+_Script to download media from telegram channels._
 
 ### Run script
 Before run, set Telegram credentials and Parser settings in file `settings.py`.
